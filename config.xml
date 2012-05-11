@@ -2,17 +2,17 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+	version 	= "99.999">
 
 	<name>PhoneGap: Getting Started</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		TESTing for Salsa-101 with PhoneGap development and build.phonegap.com
 	</description>
 
 	<author href="http://salsa-101.github.com"
 		email="elsolar50@yahoo.com">
-		Andrew Lunny
+		ramon negron
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
